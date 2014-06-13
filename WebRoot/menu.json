@@ -1,0 +1,37 @@
+{
+	"ModuleTree":[
+		{
+			"id":2000,
+			"text": "权限管理",
+			"leaf": false,
+			"expanded": true,
+			"children": [
+				{
+					"id": 2001,
+					"text": "用户管理",
+					"leaf": true,
+					"className": "basic.UserPanel"
+				},
+				{
+					"id": 2002,
+					"text": "角色管理",
+					"leaf": true,
+					"className": "basic.RolePanel"
+				}
+			]
+		},
+		{
+			"id":1000,
+			"text": "统计管理",
+			"leaf": false,
+			"expanded": true,
+			"children": [
+				{
+					"id": 1001,
+					"text": "TEST",
+					"leaf": true
+				}
+			]
+		}
+	]
+}
