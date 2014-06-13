@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="ssp">
+    <wb-module deploy-name="ext5demo">
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="ssp"/>
-        <property name="java-output-path" value="/ssp/build/classes"/>
+        <property name="java-output-path" value="/ext5demo/build/classes"/>
+        <property name="context-root" value="ext5demo"/>
     </wb-module>
 </project-modules>
